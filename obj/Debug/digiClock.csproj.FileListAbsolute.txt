@@ -1,0 +1,11 @@
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\bin\Debug\digiClock.exe.config
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\bin\Debug\digiClock.exe
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\bin\Debug\digiClock.pdb
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\obj\Debug\digiClock.csproj.AssemblyReference.cache
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\obj\Debug\digiClock.csproj.SuggestedBindingRedirects.cache
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\obj\Debug\digiClock.digiClock.resources
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\obj\Debug\digiClock.Properties.Resources.resources
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\obj\Debug\digiClock.csproj.GenerateResource.cache
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\obj\Debug\digiClock.csproj.CoreCompileInputs.cache
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\obj\Debug\digiClock.exe
+C:\Users\91766\OneDrive\Desktop\RajKishore\VS Projects\digiClock\obj\Debug\digiClock.pdb
